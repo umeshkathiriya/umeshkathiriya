@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Umesh Kathiriya passionated FrontEnd Developer with experience of over a decade.
-- 👀 I’m interested in writing semantic code HTML/CSS/Javascript also in free time curious to give creative solution with design skills.
-- 🌱 I’m currently learning Git repo, frameworks and Libraries out in the market.
-- 💞️ I’m looking to collaborate on opens source projects where I can contribute and explore the gallary around the world.
-- 📫 How to reach me at my mail ID - xdsumesh@gmail.com.
+- 👋 Hi, I’m @Umesh Kathiriya a passionated FrontEnd Developer and Creative Designer with experience of over a decade in an industry.
+- 👀 I’m interested in writing semantic code HTML/CSS/Javascript. In spare time do graphic and web design solution.
+- 🌱 I’m currently learning Frameworks and Libraries out in the market.
+- 💞️ I’m looking to collaborate on open source projects where I can contribute and explore the coding gallary around the world.
+- 📫 How to reach me just say Hi on my mail ID - xdsumesh@gmail.com.
 
 <!---
 umeshkathiriya/umeshkathiriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
